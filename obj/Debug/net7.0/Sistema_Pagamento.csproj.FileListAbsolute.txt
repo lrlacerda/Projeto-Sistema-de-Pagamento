@@ -1,0 +1,15 @@
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\bin\Debug\net7.0\Sistema_Pagamento.exe
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\bin\Debug\net7.0\Sistema_Pagamento.deps.json
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\bin\Debug\net7.0\Sistema_Pagamento.runtimeconfig.json
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\bin\Debug\net7.0\Sistema_Pagamento.dll
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\bin\Debug\net7.0\Sistema_Pagamento.pdb
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.csproj.AssemblyReference.cache
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.AssemblyInfoInputs.cache
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.AssemblyInfo.cs
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.dll
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\obj\Debug\net7.0\refint\Sistema_Pagamento.dll
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.pdb
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.genruntimeconfig.cache
+C:\Users\lribe\OneDrive\Área de Trabalho\Sistema_Pagamento\obj\Debug\net7.0\ref\Sistema_Pagamento.dll
