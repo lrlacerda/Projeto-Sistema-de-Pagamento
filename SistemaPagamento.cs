@@ -29,6 +29,15 @@ namespace Sistema_Pagamento
             return codigoBarras;
         }
 
+        //  public string GerarCodigoBarras()
+        // {
+        //     Random rnd = new Random();
+
+        //     string codigoBarras = rnd.Next(3000000000000000000);            
+
+        //     return codigoBarras;
+        // }
+
 
         public void PagamentoCartaoCredito(double valorCompra)
         {
